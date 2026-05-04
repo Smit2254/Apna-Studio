@@ -69,7 +69,6 @@ export const services = [
     icon: '💍',
     title: 'Wedding Photography',
     description: 'Full-day coverage from mehendi to vidaai. Candid + traditional. Albums available.',
-    price: 'Starting ₹45,000',
     accent: 'from-rose-400 to-rose-600',
   },
   {
@@ -77,7 +76,6 @@ export const services = [
     icon: '🌸',
     title: 'Pre-Wedding Shoots',
     description: 'Curated concepts, outdoor & studio, Reels & cinematic film. Custom themes on request.',
-    price: 'Starting ₹18,000',
     accent: 'from-amber-400 to-orange-500',
   },
   {
@@ -85,7 +83,6 @@ export const services = [
     icon: '👨‍👩‍👧',
     title: 'Portrait Sessions',
     description: 'Family, maternity, newborn, professional headshots, and solo portraits.',
-    price: 'Starting ₹8,000',
     accent: 'from-violet-400 to-purple-600',
   },
   {
@@ -93,7 +90,6 @@ export const services = [
     icon: '🎉',
     title: 'Events & Celebrations',
     description: 'Birthdays, corporate events, product launches, and milestone parties.',
-    price: 'Starting ₹12,000',
     accent: 'from-teal-400 to-cyan-600',
   },
   {
@@ -101,7 +97,6 @@ export const services = [
     icon: '🎬',
     title: 'Cinematic Reels',
     description: 'Short films, Instagram Reels, and wedding highlight videos with cinematic grading.',
-    price: 'Starting ₹25,000',
     accent: 'from-pink-400 to-rose-600',
   },
   {
@@ -109,7 +104,6 @@ export const services = [
     icon: '🏠',
     title: 'Product & Interior',
     description: 'E-commerce, restaurant, hotel, and real estate photography that converts.',
-    price: 'Starting ₹6,000',
     accent: 'from-emerald-400 to-green-600',
   },
 ];
