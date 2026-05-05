@@ -43,6 +43,8 @@ function Hero() {
             alt={heroSlides[current].label}
             className='w-full h-full object-cover'
             loading='eager'
+            onContextMenu={(e) => e.preventDefault()}
+            draggable={false}
           />
           {/* Dark gradient overlay */}
           <div className='absolute inset-0 bg-gradient-to-b from-ink-900/60 via-ink-900/30 to-ink-900/80' />
@@ -201,6 +203,8 @@ function About() {
                 alt='Apna Studio team'
                 className='w-full h-full object-cover hover:scale-105 transition-transform duration-700'
                 loading='lazy'
+                onContextMenu={(e) => e.preventDefault()}
+                draggable={false}
               />
             </div>
             {/* Floating stat badge */}

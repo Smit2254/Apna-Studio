@@ -14,9 +14,10 @@ export const siteConfig = {
   whatsapp: '919824010225', // country code + number, no spaces or +
 
   social: {
-    instagram: 'https://instagram.com/apnastudio',
-    facebook: 'https://facebook.com/apnastudio',
-    youtube: 'https://youtube.com/@apnastudio',
+    instagram:
+      'https://www.instagram.com/apna.digital.studio1991?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D',
+    facebook:
+      'https://www.facebook.com/gajjar.kishor.144?rdid=UJ4kNVxavHp3qHuJ&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1BmVMmxAmr%2F#',
   },
 
   // Google Sheets form endpoint (see README for setup)
